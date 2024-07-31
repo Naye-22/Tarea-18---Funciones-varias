@@ -1,0 +1,2 @@
+Calificación: 2.2/3
+No debe usar la librería <vector>
